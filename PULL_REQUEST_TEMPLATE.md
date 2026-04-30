@@ -24,7 +24,7 @@ Closes ENG-123
 
 ## Ready to merge
 
-✋ **Go through each point yourself. Do not treat these as formalities.**
+🧠 **Go through each point yourself. Do not treat these as formalities.**
 
 **Author**
 
